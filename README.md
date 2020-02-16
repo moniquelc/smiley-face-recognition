@@ -1,5 +1,5 @@
 # Smiley - Face Recognition
-A face recognition app created using React and a Clarifai API.
+A face recognition app created using React.
 This app allows the user, after register/login, to paste a image's url in the input area and have the image be displayed. If the image has a face, it will be recognized and a blue box will appear around it. 
 
 This repository contains the code for the frontend part of this project. The backend part can be found at the repo smiley-face-recognition-api. 
