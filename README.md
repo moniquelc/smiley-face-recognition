@@ -13,5 +13,6 @@ You should also clone "smiley-face-recognition-api" repository.
 
 ## Live demo
 This project is deployed at heroku:
+https://smiley-face-recognition.herokuapp.com/
 
 
